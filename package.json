@@ -1,0 +1,25 @@
+{
+  "name": "taller-videojuegos",
+  "version": "0.0.1",
+  "description": "Taller de programacion Web 2 dia 9 de octubre",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "npm",
+    "Nodemon",
+    "API"
+  ],
+  "author": "Leonel Zuluaga",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.13",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
